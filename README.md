@@ -15,7 +15,23 @@
 - DevOps: Travis CI, Heroku, Surge, Docker
 - Version Control: GitHub
 
-### Key Projects
+### Companies
+
+**Comcast / Sky**
+*Senior Developer*
+blah blah blah
+
+**Amazon**
+*Software Development Engineer  2*
+blah blah blah
+
+**Kit Digital / IOKO**
+*Senior Developer*
+blah blah blah
+
+**Metia**
+*Software developer*
+blah blah blah
 
 <!--
 **amcode/amcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
